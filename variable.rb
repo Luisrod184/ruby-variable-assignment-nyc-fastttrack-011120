@@ -1,3 +1,3 @@
- greeting = "Hello World". 
-
+ def greeting = "Hello World". 
+ puts "Hello World"
  end 
